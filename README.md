@@ -20,7 +20,8 @@ What it Does
 
 - ## Output
 
-![Project Output](output.png)
+![Project Output](<img width="1452" height="848" alt="Screenshot 2026-10-10 171625" src="https://github.com/user-attachments/assets/224a9f7f-3b2f-4377-a72d-a18f2d5c20fc" />)
+()
 
 
 
