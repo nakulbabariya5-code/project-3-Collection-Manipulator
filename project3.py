@@ -20,7 +20,7 @@ while True:
             Grade = input("enter your Grade:")
             date_of_birth =input("enter your date of birth  (dd/mm/yyyy):")
             subjects_input = input("subjects offered (comma separated):")
-            subjects_input = [subject.strip() for subject in subjects_input.split(" . ")]
+            subjects_input = [subject.strip() for subject in subjects_input.split(" , ")]
             students[student_id] = {
                 "Name": Name,
                 "Age": Age,
@@ -47,12 +47,11 @@ while True:
             print("student not found!")
         else:
             print("\n 1. update name")
-            print("2.update name")
             print("2.update age")
             print("3.update  grade")
             print("4.update date of birth")
             print("5.update subjects")
-            update_choice = int(input("enter your choise:"))
+            update_choice = int(input("enter your choice:"))
             if update_choice == 1:
                 students[student_id]["Name"] = input("enter new name: ")
             elif update_choice == 2:
