@@ -11,12 +11,6 @@ What it Does
 - Delete student records
 - Show all subjects offered
 
-##  Features
-- Add new students with details (Name, Age, Grade, Date of Birth, Subjects)
-- Display all students in a clean format
-- Update existing student information
-- Delete student records
-- Show all subjects offered
 
 - ## Output
 
