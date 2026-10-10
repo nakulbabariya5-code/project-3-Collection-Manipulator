@@ -1,6 +1,6 @@
 students  = {}
-subjects = ["maths","science","english","copmuter","gujarati"]
-print("Welcone to the student Data Organizer!")
+subjects = ["maths","science","english","Computer","gujarati"]
+print("Welcome to the student Data Organizer!")
 while True:
     print("select an option:")
     print("1.add student")
@@ -8,7 +8,7 @@ while True:
     print("3.update students information")
     print("4.Delete student ")
     print("5.display all subjects offered")
-    print("6/exit")
+    print("6. exit")
     choice = int(input("enter your choice:"))
     if choice == 1:
         student_id = int(input("enter student id:"))
@@ -46,7 +46,7 @@ while True:
         if student_id not in students:
             print("student not found!")
         else:
-            print("n/1. update name")
+            print("\n 1. update name")
             print("2.update name")
             print("2.update age")
             print("3.update  grade")
