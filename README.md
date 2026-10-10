@@ -20,7 +20,7 @@ What it Does
 
 - ## Output
 
-![Project Output](<img width="1242" height="717" alt="Screenshot 2026-10-10 171612" src="https://github.com/user-attachments/assets/257e7ebd-1967-4365-b2f2-1a3b598a8490" />
+![Project Output PArt 1](<img width="1242" height="717" alt="Screenshot 2026-10-10 171612" src="https://github.com/user-attachments/assets/257e7ebd-1967-4365-b2f2-1a3b598a8490" />
 
 
 
