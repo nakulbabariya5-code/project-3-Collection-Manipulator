@@ -20,8 +20,8 @@ What it Does
 
 - ## Output
 
-![Project Output](<img width="1452" height="848" alt="Screenshot 2026-10-10 171625" src="https://github.com/user-attachments/assets/224a9f7f-3b2f-4377-a72d-a18f2d5c20fc" />)
-()
+![Project Output](<img width="1242" height="717" alt="Screenshot 2026-10-10 171612" src="https://github.com/user-attachments/assets/257e7ebd-1967-4365-b2f2-1a3b598a8490" />
+
 
 
 
